@@ -1,0 +1,9 @@
+13:44:52.111  INFO  [lib Actividad4] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW_2223_12\Desktop\LMSGI\UD6\Actividad4\Actividad4
+13:44:52.111  INFO  [lib Actividad4] create storage in C:\Users\1DAW_2223_12\Desktop\LMSGI\UD6\Actividad4\Actividad4\contents.qdb
+13:44:52.111  INFO  [lib Actividad4] storage created
+13:44:52.315  INFO  [lib Actividad4] library creation done
+13:45:03.983  INFO  [lib Actividad4] commit start Actividad4 (session 1)
+13:45:04.014  INFO  [lib Actividad4] commit 1 on Actividad4 (session 1)
+13:45:04.029  INFO  [lib Actividad4] commit 1 done
+13:45:04.029  INFO  [lib Actividad4] commit end Actividad4 (session 1) -> state: [ 1 ][ 1 2 ]
+13:45:04.029  INFO  [lib Actividad4] sweeper deleted 1/1 metadocs: 5
