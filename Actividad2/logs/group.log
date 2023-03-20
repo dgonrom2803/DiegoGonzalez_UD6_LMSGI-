@@ -1,0 +1,5 @@
+09:25:57.981  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_12\Desktop\LMSGI\UD6\Actividad2
+09:25:57.982  INFO  [LibraryManager]  100
+10:33:07.584  INFO  [LibraryManager] shutdown begins
+10:33:07.589  INFO  [LibraryManager]  closed library DB_BailesdeSalon
+10:33:07.589  INFO  [LibraryManager] shutdown complete.

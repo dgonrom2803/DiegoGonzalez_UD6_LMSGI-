@@ -1,0 +1,4 @@
+for $libro in doc("BD_Libros.xml")//Libros/libro
+let $n:=$libro/Titulo
+where $libro/Autores/autor/nacionalidad = "Inglés"
+return $n
