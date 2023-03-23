@@ -1,0 +1,19 @@
+insert node 
+<libro>
+	<Cod_Libro>11</Cod_Libro>
+	<Titulo>Los Juegos del Hambre</Titulo>
+	<Editorial>Molino</Editorial>
+	<Edicion>3</Edicion>
+	<ISBN>9788466734561</ISBN>
+	<NumPaginas>416</NumPaginas>
+	<Autores>
+		<autor>
+			<Cod_Autor>11</Cod_Autor>
+			<Nombre>Maria</Nombre>
+			<Apellidos>Collins</Apellidos>
+			<FechaNacimiento>29/09/1986</FechaNacimiento>
+			<nacionalidad>Inglés</nacionalidad>
+		</autor>
+	</Autores>
+</libro>
+before doc("BD_Libros.xml")//Libros/libro[Cod_Libro = 1]

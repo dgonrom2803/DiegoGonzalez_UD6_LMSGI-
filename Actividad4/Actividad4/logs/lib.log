@@ -7,3 +7,6 @@
 13:45:04.029  INFO  [lib Actividad4] commit 1 done
 13:45:04.029  INFO  [lib Actividad4] commit end Actividad4 (session 1) -> state: [ 1 ][ 1 2 ]
 13:45:04.029  INFO  [lib Actividad4] sweeper deleted 1/1 metadocs: 5
+14:31:21.290  INFO  [lib Actividad4] All sessions closed
+14:31:21.290  INFO  [lib Actividad4] Sweeper stopped
+14:31:21.291  INFO  [lib Actividad4] library closed 

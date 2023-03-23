@@ -1,0 +1,3 @@
+replace node 
+doc("BD_Libros.xml")//Libros/libro[Cod_Libro = 11]/Autores/autor/Nombre
+with <Nombre>Suzanne</Nombre>

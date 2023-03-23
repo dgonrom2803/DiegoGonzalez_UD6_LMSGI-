@@ -1,2 +1,5 @@
 13:44:39.899  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_12\Desktop\LMSGI\UD6\Actividad4
 13:44:39.899  INFO  [LibraryManager]  100
+14:31:21.286  INFO  [LibraryManager] shutdown begins
+14:31:21.291  INFO  [LibraryManager]  closed library Actividad4
+14:31:21.291  INFO  [LibraryManager] shutdown complete.

@@ -1,0 +1,36 @@
+14:33:35.273  INFO  [lib Actividad5] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW_2223_12\Desktop\LMSGI\UD6\Actividad5\Actividad5
+14:33:35.273  INFO  [lib Actividad5] create storage in C:\Users\1DAW_2223_12\Desktop\LMSGI\UD6\Actividad5\Actividad5\contents.qdb
+14:33:35.288  INFO  [lib Actividad5] storage created
+14:33:35.460  INFO  [lib Actividad5] library creation done
+14:33:44.336  INFO  [lib Actividad5] commit start Actividad5 (session 1)
+14:33:44.352  INFO  [lib Actividad5] commit 1 on Actividad5 (session 1)
+14:33:44.367  INFO  [lib Actividad5] commit 1 done
+14:33:44.367  INFO  [lib Actividad5] commit end Actividad5 (session 1) -> state: [ 1 ][ 1 2 ]
+14:33:44.383  INFO  [lib Actividad5] sweeper deleted 1/1 metadocs: 5
+14:47:20.563  INFO  [lib Actividad5] commit start Actividad5 (session 1)
+14:47:20.580  INFO  [lib Actividad5] commit 2 on Actividad5 (session 1)
+14:47:20.580  INFO  [lib Actividad5] commit 2 done
+14:47:20.580  INFO  [lib Actividad5] commit end Actividad5 (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+14:47:20.580  INFO  [lib Actividad5] sweeper deleted 1/1 docs: 8 in ms 0.075899
+14:47:20.580  INFO  [lib Actividad5] sweeper deleted 2/2 metadocs: 9, 11
+14:49:10.182  INFO  [lib Actividad5] commit start Actividad5 (session 1)
+14:49:10.193  INFO  [lib Actividad5] commit 3 on Actividad5 (session 1)
+14:49:10.209  INFO  [lib Actividad5] commit 3 done
+14:49:10.209  INFO  [lib Actividad5] sweeper deleted 1/1 docs: 14 in ms 0.151
+14:49:10.209  INFO  [lib Actividad5] commit end Actividad5 (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
+14:49:10.209  INFO  [lib Actividad5] sweeper deleted 2/2 metadocs: 15, 17
+14:52:37.951  INFO  [lib Actividad5] commit start Actividad5 (session 1)
+14:52:37.954  INFO  [lib Actividad5] commit 4 on Actividad5 (session 1)
+14:52:37.970  INFO  [lib Actividad5] commit 4 done
+14:52:37.970  INFO  [lib Actividad5] commit end Actividad5 (session 1) -> state: [ 1 2 3 4 ][ 1 2 3 4 5 ]
+14:52:37.970  INFO  [lib Actividad5] sweeper deleted 1/1 docs: 20 in ms 0.100201
+14:52:37.970  INFO  [lib Actividad5] sweeper deleted 2/2 metadocs: 21, 23
+14:54:09.945  INFO  [lib Actividad5] commit start Actividad5 (session 1)
+14:54:09.953  INFO  [lib Actividad5] commit 5 on Actividad5 (session 1)
+14:54:09.953  INFO  [lib Actividad5] commit 5 done
+14:54:09.953  INFO  [lib Actividad5] sweeper deleted 1/1 docs: 26 in ms 0.197799
+14:54:09.969  INFO  [lib Actividad5] commit end Actividad5 (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 ]
+14:54:09.969  INFO  [lib Actividad5] sweeper deleted 2/2 metadocs: 27, 29
+14:57:39.360  INFO  [lib Actividad5] All sessions closed
+14:57:39.361  INFO  [lib Actividad5] Sweeper stopped
+14:57:39.362  INFO  [lib Actividad5] library closed 
